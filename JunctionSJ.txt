@@ -1,0 +1,27 @@
+
+Time:30s - Junction SJ: 60 Cars Waiting
+Time:30s - Junction SJ: 60 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 61 Cars Waiting
+Time:30s - Junction SJ: 62 Cars Waiting
+Time:30s - Junction SJ: 62 Cars Waiting
+Time:30s - Junction SJ: 63 Cars Waiting
+Time:30s - Junction SJ: 63 Cars Waiting
+Time:30s - Junction SJ: 63 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:30s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
+Time:31s - Junction SJ: 64 Cars Waiting
